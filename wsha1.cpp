@@ -2,4 +2,3 @@
 #include "wsha1.h"
 #include <iostream>
 
-SHA1ImplementInterface::SHA1ImplementInterface() {}
